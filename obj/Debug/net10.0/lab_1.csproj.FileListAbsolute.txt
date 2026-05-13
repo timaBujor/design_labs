@@ -12,3 +12,4 @@ C:\Users\bujor\design_usm\lab_1\obj\Debug\net10.0\refint\lab_1.dll
 C:\Users\bujor\design_usm\lab_1\obj\Debug\net10.0\lab_1.pdb
 C:\Users\bujor\design_usm\lab_1\obj\Debug\net10.0\lab_1.genruntimeconfig.cache
 C:\Users\bujor\design_usm\lab_1\obj\Debug\net10.0\ref\lab_1.dll
+C:\Users\bujor\design_usm\lab_1\obj\Debug\net10.0\lab_1.sourcelink.json
